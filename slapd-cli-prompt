@@ -11,7 +11,7 @@ _slapd-cli()
         # if the action requires a filename, autocomplete with a filename
 
         if [[ $( type -t _longopt ) == function ]] ; then
-            # better filename competion with function _longopt
+            # better filename completion with function _longopt
             _longopt
         else
             COMPREPLY=( $(compgen -f -- ${CUR}) )
