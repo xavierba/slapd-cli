@@ -21,7 +21,7 @@ The main features are:
 
 ## Documentation
 
-See http://ltb-project.org/wiki/documentation/slapd-cli
+See https://www.ltb-project.org/documentation/slapd-cli.html
 
 ## Download
 
